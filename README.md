@@ -2,13 +2,13 @@
 
 🎓 Data Science & Management Student at IIT Madras
 
-📊 Interested in **Data Analytics X Finance X AI/ML**
+📊 Interested in **Data X Finance X AI/ML**
 
 ### Skills
 
-**Python • SQL • Excel • Power BI • Machine Learning • NLP • Finance**
+**Financial Analysis • Modeling and Valuation • Corporate Finance • Equity Research • Python • SQL • Excel • Power BI • Machine Learning**
 
-Currently learning, building projects, and exploring the intersection of **data, technology, and finance**.
+Exploring how Data and Technology can drive smarter Business and Financial decisions. 
 
 ### Let's Connect 
 
