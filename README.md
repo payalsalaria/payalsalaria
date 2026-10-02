@@ -1,4 +1,4 @@
-##Hey, I'm Payal :)
+### Hey, I'm Payal :)
 
 🎓 Data Science & Management Student at IIT Madras
 
