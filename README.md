@@ -10,7 +10,3 @@
 
 Exploring how Data and Technology can drive smarter Business and Financial decisions. 
 
-### Let's Connect 
-
-[LinkedIn](linkedin.com/in/payalsalaria001)
-
